@@ -51,4 +51,5 @@ Our last update will be for machines for employees that are not in the Informati
 
 ## Summary
 
-[Add content here.]
+This project demonstrates my ability to apply SQL filtering techniques to analyze organizational login and employee data. I used real-world logic to investigate security concerns—such as failed logins after hours, activity outside of designated regions, and department-specific machine updates.
+Through practical SQL queries using WHERE, AND, OR, LIKE, and NOT, I filtered large datasets efficiently to support incident response and secure infrastructure operations.
