@@ -135,5 +135,5 @@ This project highlights my ability to:
 
 I'm seeking entry-level roles in IT Security, Data Analysis, or SOC Operations where I can contribute with my SQL, investigative, and analytical skills.
 
-- Email: jovaan.jwhitton@gmail.com
-- LinkedIn: linkedin.com/in/jovaan-whitton-profile
+- **Email:** jovaan.jwhitton@gmail.com
+- **LinkedIn**: [linkedin.com/in/jovaan-whitton-profile](https://linkedin.com/in/jovaan-whitton-profile)
