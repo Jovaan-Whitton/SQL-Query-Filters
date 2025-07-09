@@ -18,7 +18,7 @@ As a security professional at a large organization, part of my job is to investi
 I’ve recently discovered a potential security incident that has occured after business hours of 18:00. To investigate this it will query data from the log_in_attempts table of the organization's data and review after hours log in activity. Specifically reviewing failed login attempts after 18:00. The time of the log in will be located in the ‘login-time’ column and the success of the login attempt will be in the ‘success’ column of the log_in_attempts table. Using filters in SQL the correct query is as follows SELECT * FROM log_in_attempts WHERE login_time > 18:00 AND success = 0;  We are SELECTING all data(*) FROM the log_in_attempts table WHERE (indicating the filtration based on columns in the table) the login_time is greater than (>)  18:00, AND ( meaning both conditions must be met), the success of the login attempt has failed (represented as a 0 or FALSE, a successful login is represented by a 1 or TRUE). The output shows all data in the log_in_attempts table that have failed after 18:00.
 
 <details>
-  <summary>Retrieve after hours login- Screenshot</summary>
+  <summary>Retrieve after hours login</summary>
   
 ![Retrieve after hours failed login attempts](images/after-hours-failures.png)
 
