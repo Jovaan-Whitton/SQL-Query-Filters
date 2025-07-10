@@ -1,6 +1,5 @@
 #  SQL Query Filters
 
-
 ##  Project Overview
 
 As a security analyst at a large organization, I used SQL filtering techniques to investigate login activity and department-based machine updates across the company. This project simulates real-world incident response scenarios and showcases how SQL can be used to support enterprise security operations by isolating and analyzing data with precision.
@@ -131,9 +130,4 @@ This project highlights my ability to:
   
 ---
 
-## Let's Connect
-
-I'm seeking entry-level roles in IT Security, Data Analysis, or SOC Operations where I can contribute with my SQL, investigative, and analytical skills.
-
-- **Email:** jovaan.jwhitton@gmail.com
-- **LinkedIn**: [linkedin.com/in/jovaan-whitton-profile](https://linkedin.com/in/jovaan-whitton-profile)
+*[Visit My GitHub Landing Page](https://github.com/Jovaan-Whitton)*
